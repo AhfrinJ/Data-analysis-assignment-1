@@ -1,2 +1,2 @@
 # Data-analysis-assignment-1
-Creating and inserting a pivot table
+Creating and inserting a pivot table and pivot charts
